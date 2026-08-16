@@ -329,3 +329,8 @@ Summary:
 > rastarakh-gqe-termux.zip  
   
 rastarakh-gqe-termux/ │ ├─ engine/ │   ├─ mythic_engine.py │   ├─ gqe.py │   ├─ tone_map.json │   └─ symbols.json │ ├─ main.py ├─ requirements.txt ├─ start.sh ├─ .env └─ README-GQE.md
+
+
+
+echo "🚀 شروع RASTAKHMIND CORE..."
+python app.py
